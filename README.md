@@ -1,6 +1,6 @@
 # LeLuca — Releases
 
-LeLuca is a macOS meeting transcription & AI summary app (WhisperKit on-device transcription + ChatGPT-subscription summaries).
+LeLuca is a native macOS meeting transcription and AI notes app. Record microphone and system audio, transcribe on-device with Whisper, then create summaries and cited answers with ChatGPT, OpenAI, Claude, OpenRouter, or Apple Intelligence.
 
 **Download the latest DMG from [Releases](https://github.com/grep24/LeLuca-releases/releases/latest).**
 
@@ -11,6 +11,8 @@ LeLuca is a macOS meeting transcription & AI summary app (WhisperKit on-device t
 Source code lives in a private repository; this repo only hosts release artifacts.
 
 ## Privacy
+
+Read the full [Privacy Policy](PRIVACY.md).
 
 LeLuca is local-first and does not include advertising, analytics, or tracking.
 
